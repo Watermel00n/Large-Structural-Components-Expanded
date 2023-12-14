@@ -1,0 +1,4 @@
+Transfer contents of the GameData folder in this .zip file to the KSP GameData file.
+Install L00nToolbox as a dependency
+
+REMEMBER: When updating, REMOVE THE MOD'S FOLDERS FIRST!
